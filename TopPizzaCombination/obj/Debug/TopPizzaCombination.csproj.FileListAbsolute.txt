@@ -1,0 +1,10 @@
+C:\Users\lbalo\source\repos\TopPizzaCombination\TopPizzaCombination\bin\Debug\TopPizzaCombination.exe.config
+C:\Users\lbalo\source\repos\TopPizzaCombination\TopPizzaCombination\bin\Debug\TopPizzaCombination.exe
+C:\Users\lbalo\source\repos\TopPizzaCombination\TopPizzaCombination\bin\Debug\TopPizzaCombination.pdb
+C:\Users\lbalo\source\repos\TopPizzaCombination\TopPizzaCombination\obj\Debug\TopPizzaCombination.csprojAssemblyReference.cache
+C:\Users\lbalo\source\repos\TopPizzaCombination\TopPizzaCombination\obj\Debug\TopPizzaCombination.csproj.CoreCompileInputs.cache
+C:\Users\lbalo\source\repos\TopPizzaCombination\TopPizzaCombination\obj\Debug\TopPizzaCombination.exe
+C:\Users\lbalo\source\repos\TopPizzaCombination\TopPizzaCombination\obj\Debug\TopPizzaCombination.pdb
+C:\Users\lbalo\source\repos\TopPizzaCombination\TopPizzaCombination\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lbalo\source\repos\TopPizzaCombination\TopPizzaCombination\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lbalo\source\repos\TopPizzaCombination\TopPizzaCombination\obj\Debug\TopPizzaCombination.csproj.CopyComplete
